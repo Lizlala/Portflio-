@@ -22,12 +22,12 @@ Este portfólio reúne projetos desenvolvidos em Power BI e outras ferramentas d
 
 ---
 
-## Projeto 1: [Análise de Custos e Faturamento — Grupo OLZ](https://github.com/Lizlala/Grupo-Olz---Custos-e-Faturamento.git)
+## [Projeto 1: Análise de Custos e Faturamento — Grupo OLZ](https://github.com/Lizlala/Grupo-Olz---Custos-e-Faturamento.git)
 
 Projeto desenvolvido em Power BI para análise financeira do Grupo OLZ, cruzando dados de faturamento, custos e margem para identificar oportunidades de melhoria.
 
 
-![Painel de controle do Power BI](images/dashboard-overview.png)
+![Painel de controle do Power BI](images/dashboard-overview.png.png)
 
 ## Contato
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [treenamu@outlook.com]().
