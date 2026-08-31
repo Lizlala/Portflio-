@@ -22,12 +22,14 @@ Este portfólio reúne projetos desenvolvidos em Power BI e outras ferramentas d
 
 ---
 
-Projeto 1: Análise de Custos e Faturamento — Grupo OLZ
+## Projeto 1: [Análise de Custos e Faturamento — Grupo OLZ](https://github.com/Lizlala/Grupo-Olz---Custos-e-Faturamento.git)
 
-![Dashboard Power BI](imagens/dashboard-overview.png.png)
+Projeto desenvolvido em Power BI para análise financeira do Grupo OLZ, cruzando dados de faturamento, custos e margem para identificar oportunidades de melhoria.
 
 
+![Painel de controle do Power BI](images/dashboard-overview.png)
 
+## Contato
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
