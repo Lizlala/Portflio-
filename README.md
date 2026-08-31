@@ -30,8 +30,8 @@ Projeto desenvolvido em Power BI para análise financeira do Grupo OLZ, cruzando
 ![Painel de controle do Power BI](images/dashboard-overview.png)
 
 ## Contato
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [treenamu@outlook.com]().
 
-Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
+Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful!!!
 
 
