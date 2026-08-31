@@ -27,13 +27,13 @@ Este portfólio apresenta projetos desenvolvidos em **Power BI** e outras ferram
 
 Projeto desenvolvido em Power BI para análise financeira do Grupo OLZ, cruzando dados de faturamento, custos e margem para identificar oportunidades de melhoria.
 
-![Painel de controle do Power BI](images/dashboard-overview.png)
+![Painel de controle do Power BI](images/dashboard-overview.png.png)
 
 ---
 
 ## Contato
 
-Se você tiver dúvidas, comentários ou oportunidades de colaboração, fique à vontade para entrar em contato comigo: [treenamu@outlook.com]
+Se você tiver dúvidas, comentários ou oportunidades de colaboração, fique à vontade para entrar em contato comigo: treenamu@outlook.com
 
 Obrigado por visitar meu portfólio de análise de dados  
 Espero que meus projetos sejam informativos e inspiradores!!!
